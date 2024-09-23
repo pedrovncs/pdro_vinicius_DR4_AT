@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "O Hobbit",
+        "preco": 29.90,
+        "quantidade": 150
+    },
+    {
+        "nome": "O Silmarillion",
+        "preco": 45.00,
+        "quantidade": 98
+    },
+    {
+        "nome": "Contos Inacabados",
+        "preco": 39.99,
+        "quantidade": 47
+    }
+]
